@@ -6808,8 +6808,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "VIC 20 ROM Replacement\n+\nInternal RAM Expansion\nDesign by Julian Brown 2024"
-		(at 142.5194 101.1428 0)
+	(gr_text "VIC 20 ROM Replacement\n+\nInternal RAM Expansion\nDesign by Julian Brown 2024\nCC BY-NC-SA 4.0"
+		(at 142.7988 95.123 0)
 		(layer "F.SilkS")
 		(uuid "f386022d-3f3a-464c-8dd0-33ca5da7f48e")
 		(effects
@@ -6817,7 +6817,7 @@
 				(size 1 1)
 				(thickness 0.1)
 			)
-			(justify left bottom)
+			(justify left top)
 		)
 	)
 	(segment

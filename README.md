@@ -6,6 +6,8 @@ board can also carry up to 32K of RAM to expand the memory
 capacity internally without the need for RAM expansion 
 cartridges.
 
+![./VIC-20-InternalRAM.png](./VIC-20-InternalRAM.png)
+
 ## ROM Replacement
 
 The board is designed to use 27c64 EPROMs to replace the
