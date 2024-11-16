@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinHeader_1x05_P2.54mm_Vertical,1,P6,
+RN1,R_Array_Convex_4x1206,1,4K7,
+SW1,SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile,1,SW_DIP_x04,
+"U1, U2, U3, U4",SOIC-28W_7.5x18.7mm_P1.27mm,4,CY6264-70SNC,
+U5,DIP-28_W15.24mm,1,27C64 - BASIC,
+U6,DIP-28_W15.24mm,1,27C64 - KERNEL,
+U7,2364,1,BASIC,
+U8,2364,1,KERNEL,
