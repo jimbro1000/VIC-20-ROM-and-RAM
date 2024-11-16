@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "VIC-20")(type "KiCad")(uri "${KIPRJMOD}/VIC-20.pretty")(options "")(descr ""))
+)
